@@ -28,9 +28,6 @@ The UI features easy-to-use buttons and clear color distinctions for completed o
 - Notifications do not disappear until confirmed.
 - Users must confirm each step for effective tracking.
 
-## Technologies:
-- Front-End: Figma for UI Design, Mobile app frameworks
-
   Team work
   -----------
   - Taif alrubeaan
